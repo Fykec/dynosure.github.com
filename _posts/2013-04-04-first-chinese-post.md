@@ -14,3 +14,8 @@ locale: zh-CN
 <html lang="zh-CN">
 ```
 已经实现。
+
+{% highlight html %}
+<html lang="zh-CN">
+{% endhighlight %}
+The Liquid way...
