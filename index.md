@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Dezhi Liu
+title: Homepage
+description: Life is too short to have a life that sucks.
 tagline: Life is too short to have a life that sucks.
 ---
 {% include JB/setup %}
